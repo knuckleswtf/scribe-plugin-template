@@ -48,11 +48,13 @@ class MyStrategy extends Strategy
         return $this->getData($route, $controller, $method);
     }
 
-    public function getData(Route $route, ReflectionClass $controller, ReflectionFunctionAbstract $method)
+    public function getData()
     {
         //
 
-        return null;
+        return [
+            'key' => 'value',
+        ];
     }
 
 }
