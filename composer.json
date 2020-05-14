@@ -1,7 +1,7 @@
 {
   "name": "me/my-scribe-plugin",
   "license": "MIT",
-  "description": "Custom Scribe strategy to add stuff.",
+  "description": "Custom Scribe plugin to add stuff.",
   "keywords": [
     "API",
     "documentation",
