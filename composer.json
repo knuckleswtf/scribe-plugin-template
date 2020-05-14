@@ -2,7 +2,6 @@
   "name": "me/my-scribe-plugin",
   "license": "MIT",
   "description": "Custom Scribe plugin to add stuff.",
-  "minimum-stability": "dev",
   "keywords": [
     "API",
     "documentation",
@@ -16,7 +15,7 @@
   "require": {
     "php": ">=7.2.5",
     "ext-json": "*",
-    "knuckleswtf/scribe": "dev-master"
+    "knuckleswtf/scribe": "^1.0"
   },
   "require-dev": {
     "dms/phpunit-arraysubset-asserts": "^0.1.0",
